@@ -1,10 +1,8 @@
-[![Header](https://raw.githubusercontent.com/PyBaker/<OWNER>/<OWNER>/stretched-1920-1080-939117.png "Header")](https://github.com/PyBaker/PyBaker/blob/main/stretched-1920-1080-939117.png/)
-
-<a href="https://raw.githubusercontent.com/PyBaker/<OWNER>/<OWNER>"><img src="(https://github.com/PyBaker/PyBaker/blob/main/stretched-1920-1080-939117.png" align="right" width="200px"></a>
+![Header](https://github.com/PyBaker/PyBaker/blob/c6c7063c6c81e4480eb59d39a4cf2b4ca31d7ff0/stretched-1920-1080-939117.png "Header")
 
 ### Hi there 👋
 
-<!--
+
 **PyBaker/PyBaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
