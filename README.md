@@ -1,4 +1,4 @@
-![Header](https://github.com/PyBaker/PyBaker/blob/main/wall.jpg "Header")
+![Header](https://github.com/PyBaker/PyBaker/blob/main/wallp.jpg "Header")
 
 ### Hi there 👋
 
@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying Software Engineering with ALX in conjuction with Holberton School of Computer Science
-- 🌱 I'm on track for learning more about Web Design anc Development
+- 🌱 I'm on track for learning more about Web Design and Development
 - 👯 I’m looking to collaborate on any project
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything
@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://github.com/PyBaker">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PyBaker&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PyBaker&layout=compact&langs_count=8&theme=algolia"/>
+  //camo.githubusercontent.com<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PyBaker&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
