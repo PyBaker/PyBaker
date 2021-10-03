@@ -1,7 +1,6 @@
 ![Header](https://github.com/PyBaker/PyBaker/blob/main/wall.jpg "Header")
 
-| <img src="https://github.com/PyBaker/PyBaker/blob/main/wallp.jpg" height=60>
-| :------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
+| <img src="https://github.com/PyBaker/PyBaker/blob/main/wallp.jpg" height=400>
 
 ### Hi there 👋
 
