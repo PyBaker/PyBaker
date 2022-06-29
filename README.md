@@ -1,5 +1,10 @@
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Pybaker&theme=discord)
 
+![PyBaker wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PyBaker&layout=compact&theme=blue-green)
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 <img src="https://github.com/PyBaker/PyBaker/blob/main/wallp.jpg" height=200>
 
