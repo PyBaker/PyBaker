@@ -1,4 +1,3 @@
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Pybaker&theme=discord)
 
 ![PyBaker wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PyBaker&layout=compact&theme=blue-green)
 
