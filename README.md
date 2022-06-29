@@ -1,3 +1,6 @@
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Pybaker&theme=discord)
+
+
 <img src="https://github.com/PyBaker/PyBaker/blob/main/wallp.jpg" height=200>
 
 ### Hi there 👋 I'm PyBaker :)
@@ -24,7 +27,7 @@ Here are some ideas to get you started:
 | <img src="https://github.com/PyBaker/PyBaker/blob/main/images/tools/25231.svg" width=60> | <img src="https://github.com/PyBaker/PyBaker/blob/main/images/tools/logo-stable.png" width=60> |
 | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |
 
-![PyBaker's github stats](https://github-readme-stats.vercel.app/api?username=PyBaker)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PyBaker&layout=compact)
+![PyBaker's github stats](https://github-readme-stats.vercel.app/api?username=PyBaker)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PyBaker&layout=compact&theme=dracula)
 
 ### Connect with me :smiley:
 
