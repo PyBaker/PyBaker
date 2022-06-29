@@ -1,5 +1,5 @@
 
-![PyBaker wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PyBaker&layout=compact&theme=blue-green)
+![PyBaker wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PyBaker&theme=blue-green)
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
