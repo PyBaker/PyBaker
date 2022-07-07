@@ -11,11 +11,9 @@
 <!--END_SECTION:waka-->
 
 
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-<img src="https://github.com/PyBaker/PyBaker/blob/main/wallp.jpg" height=200>
+
 
 ### Hi there 👋 I'm PyBaker :)
 
@@ -61,3 +59,7 @@ Here are some ideas to get you started:
   <img align="left" alt="PyBaker Facebook" width="21px" src="https://github.com/PyBaker/PyBaker/blob/main/images/connect_with_me_images/www.svg"  />
 </a>
 .
+
+### 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+<img src="https://github.com/PyBaker/PyBaker/blob/main/wallp.jpg" height=10>
