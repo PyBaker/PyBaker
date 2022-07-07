@@ -1,6 +1,10 @@
  ![](https://visitor-badge.laobi.icu/badge?page_id=PyBaker.PyBaker&theme=dracula)      [![Github](https://img.shields.io/github/followers/PyBaker?label=Follow&style=social&theme=dracula)](https://github.com/PyBaker)
+<!--START_SECTION:waka-->
 
 ![PyBaker wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PyBaker&theme=blue-green)
+
+<!--END_SECTION:waka-->
+
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
