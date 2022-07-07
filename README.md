@@ -2,7 +2,7 @@
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee&size=25&duration=3500&color=C6A2F7&center=true&vCenter=true&multiline=true&height=70&lines=Hie+My+name+is+Py;Py+Baker+the+first)](https://git.io/typing-svg)
  
- <p><img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/css.gif" height="80px">I can do some CSS</p>
+ <p>I can do some CSS</p>
 
 
 <!--START_SECTION:waka-->
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### Programming Languages :rocket:
 
-| <img src="https://github.com/PyBaker/PyBaker/blob/main/images/Programming_languages/1024px-Python-logo-notext.svg.png" width=60> | <img src="https://github.com/PyBaker/PyBaker/blob/main/images/Programming_languages/logo-html-5.png" width=60> |
+| <img src="https://github.com/PyBaker/PyBaker/blob/main/images/Programming_languages/1024px-Python-logo-notext.svg.png" width=60> | <img src="https://github.com/PyBaker/PyBaker/blob/main/images/Programming_languages/logo-html-5.png" width=60> | <img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/css.gif" height="80px">
 | :------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
 
 ### Tools :fire:
