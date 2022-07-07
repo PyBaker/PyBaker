@@ -33,12 +33,12 @@ Here are some ideas to get you started:
 
 ### Programming Languages :rocket:
 
-| <img src="https://github.com/PyBaker/PyBaker/blob/main/images/Programming_languages/1024px-Python-logo-notext.svg.png" width=60> | <img src="https://github.com/PyBaker/PyBaker/blob/main/images/Programming_languages/logo-html-5.png" width=60> | <img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/css.gif" height="80px">
+| <<img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/python.gif" height="80px"> | <img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/html.gif" height="80px"> | <img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/css.gif" height="80px">
 | :------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
 
 ### Tools :fire:
 
-| <img src="https://github.com/PyBaker/PyBaker/blob/main/images/tools/25231.svg" width=60> | <img src="https://github.com/PyBaker/PyBaker/blob/main/images/tools/logo-stable.png" width=60> |
+| <img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/github.gif" height="80px"> | <img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/vscode.gif" height="80px"> |
 | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |
 
 ![PyBaker's github stats](https://github-readme-stats.vercel.app/api?username=PyBaker&theme=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PyBaker&layout=compact&theme=dracula)
