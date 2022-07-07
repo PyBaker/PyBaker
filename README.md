@@ -2,7 +2,7 @@
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee&size=25&duration=3500&color=C6A2F7&center=true&vCenter=true&multiline=true&height=70&lines=Hie+My+name+is+Py;Py+Baker+the+first)](https://git.io/typing-svg)
  
- <img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/css.gif">I can do some CSS
+ <p><img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/css.gif">I can do some CSS</p>
 
 
 <!--START_SECTION:waka-->
