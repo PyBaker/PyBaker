@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ### Programming Languages :rocket:
 
 | <img src="https://github.com/PyBaker/PyBaker/blob/main/images/Programming_languages/1024px-Python-logo-notext.svg.png" width=60> | <img src="https://github.com/PyBaker/PyBaker/blob/main/images/Programming_languages/logo-html-5.png" width=60> | <img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/css.gif" height="80px">
-| :------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
+| :------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
 
 ### Tools :fire:
 
