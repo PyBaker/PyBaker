@@ -1,7 +1,5 @@
-<a href="https://github.com/PyBaker"> 
-<p align="center">
+<a align="center" href="https://github.com/PyBaker"> 
  <img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/goma-cat.gif">
-</p>
 </a>
 <p align="center">
  <img src="https://visitor-badge.laobi.icu/badge?page_id=PyBaker.PyBaker&theme=dracula">
