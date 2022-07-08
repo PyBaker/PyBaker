@@ -4,12 +4,12 @@
 </a>
 </p>
 <p align="center">
-  <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FPyBaker">
+  <a href="#">
  <img src="https://visitor-badge.laobi.icu/badge?page_id=PyBaker.PyBaker&theme=dracula">
  </a>
 </p>
 <p align="center">
-<a href="#">
+<a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FPyBaker">
  <img src="https://img.shields.io/github/followers/PyBaker?label=Follow&style=social&theme=dracula">
   </a>
 </p>
