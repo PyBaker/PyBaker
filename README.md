@@ -3,16 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee&size=25&duration=4000&color=C6A2F7&center=true&vCenter=true&multiline=true&height=70&lines=Hie+My+name+is+Py;Py+Baker+the+first)](https://git.io/typing-svg) {style=text-align:center}
  
- <p>I can do some CSS</p>
-
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-
-
-
-
 
 ### Hi there 👋 I'm PyBaker :)
 
@@ -23,10 +15,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying Software Engineering with ALX in conjuction with Holberton School of Computer Science
 - 🌱 I'm on track for learning more about Web Design and Development
 - 👯 I’m looking to collaborate on any project
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything
+- 🤔 I’m looking for help with ... My upcoming Python projects 
+- 💬 Ask me about Linux, Python, Human Communication and Html/Css for now :) 
 - 📫 You can shoot me an email I'll try to respond as soon as I can.
-- ⚡ Fun fact:
+- ⚡ Fun fact: I'm the next big thing, but for now i'm happy to learn from you as we work together  :)
 
 ### Programming Languages :rocket:
 
