@@ -53,7 +53,7 @@ Other      0 secs          ▒░░░░░░░░░░░░░░░░�
 | <a href="#"><img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/github.gif" height="80px"> | <a href="#"><img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/linux-computer.gif" height="80px"> </a> | <a href="#"><img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/vim-linux.gif" height="80px">  </a>| <a href="#"><img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/vscode.gif" height="80px"> </a> |
 | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |:--------------------------------------------------------------------------------------------: |:--------------------------------------------------------------------------------------------: |
 
-<p align="center" >
+<p  >
  <a href="#">
   <img  src="https://github-readme-stats.vercel.app/api?username=PyBaker&theme=dracula">
 </a>
