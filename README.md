@@ -9,10 +9,14 @@
  </a>
 </p>
 <p align="center">
+<a href="#">
  <img src="https://img.shields.io/github/followers/PyBaker?label=Follow&style=social&theme=dracula">
+  </a>
 </p>
 <p align="center">
+<a href="#">
  <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=25&duration=4000&color=C6A2F7&center=true&vCenter=true&multiline=true&height=70&lines=Hie+My+name+is+Shaun;Aka+Py+Baker+the+first">
+  </a>
 </p>
 
 <!--START_SECTION:waka-->
@@ -32,7 +36,7 @@ Here are some ideas to get you started:
 
 ### Programming Languages :rocket:
 
-| <a href="#"><img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/python.gif" height="80px"> </a> | <img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/html.gif" height="80px"> </a> | <a href="#"><img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/bootstrap.gif" height="80px"> </a> | <a href="#"><img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/javascript.gif" height="80px"> </a> | <a href="#"><img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/node.gif" height="80px"> </a> 
+| <a href="#"><img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/python.gif" height="80px"> </a> | <a href="#"><img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/html.gif" height="80px"> </a> | <a href="#"><img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/bootstrap.gif" height="80px"> </a> | <a href="#"><img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/javascript.gif" height="80px"> </a> | <a href="#"><img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/node.gif" height="80px"> </a> 
 | :------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |:------------------------------------------------------------------------------------------------------------: |:------------------------------------------------------------------------------------------------------------: |
 
 ### Tools :fire:
