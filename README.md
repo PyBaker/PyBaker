@@ -1,13 +1,13 @@
  <p align="center">
- <img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/goma-cat.gif)">
+ <img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/goma-cat.gif&height=100">
 </p>
 <p align="center">
  <img src="https://visitor-badge.laobi.icu/badge?page_id=PyBaker.PyBaker&theme=dracula">
 </p>
-<p>
+<p align="center">
  <img src="https://img.shields.io/github/followers/PyBaker?label=Follow&style=social&theme=dracula">
 </p>
-<p>
+<p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=25&duration=4000&color=C6A2F7&center=true&vCenter=true&multiline=true&height=70&lines=Hie+My+name+is+Py;Py+Baker+the+first">
 </p>
 
