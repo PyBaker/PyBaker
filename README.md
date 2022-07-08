@@ -18,7 +18,7 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=25&duration=4000&color=C6A2F7&center=true&vCenter=true&multiline=true&height=70&lines=Hie+I'm+Shaun;Aka+PyBaker">
   </a>
 </p>
-< align="center">
+<p align="center">
 
 <!--START_SECTION:waka-->
 
