@@ -35,8 +35,6 @@ Other      0 secs          ▒░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently studying Software Engineering with ALX in conjuction with Holberton School of Computer Science
 - 🌱 I'm on track for learning more about Web Design and Development
 - 👯 I’m looking to collaborate on any project
