@@ -27,10 +27,7 @@ Daily Coding Stats
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   36 mins         ███████████████████▓░░░░░   78.43 %
-Python     7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 %
-CSV        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+Python   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
