@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" pointer-events: none>
  <a href="https://github.com/PyBaker"> 
  <img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/goma-cat.gif">
 </a>
