@@ -1,7 +1,7 @@
  ![](https://visitor-badge.laobi.icu/badge?page_id=PyBaker.PyBaker&theme=dracula)      [![Github](https://img.shields.io/github/followers/PyBaker?label=Follow&style=social&theme=dracula)](https://github.com/PyBaker)
  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee&size=25&duration=4000&color=C6A2F7&center=true&vCenter=true&multiline=true&height=70&width=100%&lines=Hie+My+name+is+Py;Py+Baker+the+first)](https://git.io/typing-svg) {style=text-align:center}
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee&size=25&duration=4000&color=C6A2F7&center=true&vCenter=true&multiline=true&height=70&width=200&lines=Hie+My+name+is+Py;Py+Baker+the+first)](https://git.io/typing-svg) {style=text-align:center}
  
  <p>I can do some CSS</p>
 
