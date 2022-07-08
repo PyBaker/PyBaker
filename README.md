@@ -22,12 +22,8 @@ Here are some ideas to get you started:
 
 ### Programming Languages :rocket:
 
-| <<img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/python.gif" height="80px"> 
-| <img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/html.gif" height="80px"> 
-| <img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/css.gif" height="80px">
-| :------------------------------------------------------------------------------------------------------------------------------: 
-| :------------------------------------------------------------------------------------------------------------: 
-| :------------------------------------------------------------------------------------------------------------: |
+| <<img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/python.gif" height="80px"> | <img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/html.gif" height="80px"> | <img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/css.gif" height="80px">
+| :------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
 
 ### Tools :fire:
 
@@ -54,4 +50,3 @@ Here are some ideas to get you started:
   <img align="left" alt="PyBaker Facebook" width="21px" src="https://github.com/PyBaker/PyBaker/blob/main/images/connect_with_me_images/www.svg"  />
 </a>
 .
-
