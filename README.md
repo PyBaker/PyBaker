@@ -8,7 +8,7 @@
  <img src="https://img.shields.io/github/followers/PyBaker?label=Follow&style=social&theme=dracula">
 </p>
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=25&duration=4000&color=C6A2F7&center=true&vCenter=true&multiline=true&height=70&lines=Hie+My+name+is+Dr+Sean;Aka+Py+Baker+the+first">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=25&duration=4000&color=C6A2F7&center=true&vCenter=true&multiline=true&height=70&lines=Hie+My+name+is+Sean;Aka+Py+Baker+the+first">
 </p>
 
 <!--START_SECTION:waka-->
