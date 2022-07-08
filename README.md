@@ -37,8 +37,9 @@ Here are some ideas to get you started:
 | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |:--------------------------------------------------------------------------------------------: |:--------------------------------------------------------------------------------------------: |
 
 ![PyBaker's github stats](https://github-readme-stats.vercel.app/api?username=PyBaker&theme=dracula)
-[//]: # "Top Langs](https://ithub-readme-stats.vercel.app/api/top-langs/?username=PyBaker&layout=compact&theme=dracula)"
 
+<!-- Top Langs](https://ithub-readme-stats.vercel.app/api/top-langs/?username=PyBaker&layout=compact&theme=dracula)"
+-->
 
 ### Connect with me :smiley:
 
