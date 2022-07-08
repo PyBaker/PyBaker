@@ -36,7 +36,9 @@ Here are some ideas to get you started:
 | <img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/github.gif" height="80px"> | <img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/linux-computer.gif" height="80px"> | <img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/vim-linux.gif" height="80px"> | <img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/vscode.gif" height="80px"> |
 | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |:--------------------------------------------------------------------------------------------: |:--------------------------------------------------------------------------------------------: |
 
-![PyBaker's github stats](https://github-readme-stats.vercel.app/api?username=PyBaker&theme=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PyBaker&layout=compact&theme=dracula)
+![PyBaker's github stats](https://github-readme-stats.vercel.app/api?username=PyBaker&theme=dracula)
+[//]: # "![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PyBaker&layout=compact&theme=dracula)"
+
 
 ### Connect with me :smiley:
 
