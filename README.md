@@ -18,8 +18,10 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=25&duration=4000&color=C6A2F7&center=true&vCenter=true&multiline=true&height=70&lines=Hie+I'm+Shaun;Aka+PyBaker">
   </a>
 </p>
-<p align="center">
 
+<p>
+ Coding Stats
+</p>
 <!--START_SECTION:waka-->
 
 ```text
@@ -30,7 +32,6 @@ Other      0 secs          ▒░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-</p>
 
 Here are some ideas to get you started:
 
