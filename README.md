@@ -1,5 +1,5 @@
-<p align="center" pointer-events: none>
- <a href="https://github.com/PyBaker"> 
+<p align="center">
+ <a>!
  <img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/goma-cat.gif">
 </a>
 </p>
