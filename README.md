@@ -19,7 +19,6 @@
   </a>
 </p>
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
