@@ -20,7 +20,9 @@
 </p>
 
 <p>
- Coding Stats
+ <strong>
+Coding Stats
+ </strong>
 </p>
 <!--START_SECTION:waka-->
 
