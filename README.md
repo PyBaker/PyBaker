@@ -21,7 +21,7 @@
 
 <p>
  <strong>
-Coding Stats
+Daily Coding Stats
  </strong>
 </p>
 <!--START_SECTION:waka-->
