@@ -8,7 +8,7 @@
  <img src="https://img.shields.io/github/followers/PyBaker?label=Follow&style=social&theme=dracula">
 </p>
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=25&duration=4000&color=C6A2F7&center=true&vCenter=true&multiline=true&height=70&lines=Hie+My+name+is+Py;Py+Baker+the+first">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=25&duration=4000&color=C6A2F7&center=true&vCenter=true&multiline=true&height=70&lines=Hie+My+name+is+Dr+Shaun;Aka+Py+Baker+the+first">
 </p>
 
 <!--START_SECTION:waka-->
@@ -46,6 +46,10 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/PyBaker">
   <img align="left" alt="PyBaker Twitter" width="21px" src="https://github.com/PyBaker/PyBaker/blob/main/images/connect_with_me_images/twitter.svg" />
 </a>
+
+
+
+<!--
 <a href="https://www.linkedin.com/in/PyBaker/">
   <img align="left" alt="PyBaker Linkdin" width="21px" src="https://github.com/PyBaker/PyBaker/blob/main/images/connect_with_me_images/linkedin.svg" />
 </a>
@@ -58,4 +62,5 @@ Here are some ideas to get you started:
 <a href="https://www.argsinfotech.com/">
   <img align="left" alt="PyBaker Facebook" width="21px" src="https://github.com/PyBaker/PyBaker/blob/main/images/connect_with_me_images/www.svg"  />
 </a>
+-->
 .
