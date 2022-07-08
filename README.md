@@ -22,7 +22,6 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[//]: # "**PyBaker/PyBaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile."
 
 Here are some ideas to get you started:
 
@@ -46,8 +45,7 @@ Here are some ideas to get you started:
 
 ![PyBaker's github stats](https://github-readme-stats.vercel.app/api?username=PyBaker&theme=dracula)
 
-<!-- Top Langs](https://ithub-readme-stats.vercel.app/api/top-langs/?username=PyBaker&layout=compact&theme=dracula)"
--->
+
 
 ### Connect with me :smiley:
 
@@ -55,20 +53,3 @@ Here are some ideas to get you started:
   <img align="left" alt="PyBaker Twitter" width="21px" src="https://github.com/PyBaker/PyBaker/blob/main/images/connect_with_me_images/twitter.svg" />
 </a>
 
-
-
-<!--
-<a href="https://www.linkedin.com/in/PyBaker/">
-  <img align="left" alt="PyBaker Linkdin" width="21px" src="https://github.com/PyBaker/PyBaker/blob/main/images/connect_with_me_images/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/PyBaker/">
-  <img align="left" alt="PyBaker Instagram" width="21px" src="https://github.com/PyBaker/PyBaker/blob/main/images/connect_with_me_images/instagram-main.svg" />
-</a>
-<a href="https://www.facebook.com/PyBaker">
-  <img align="left" alt="PyBaker Facebook" width="21px" src="https://github.com/PyBaker/PyBaker/blob/main/images/connect_with_me_images/facebook.svg" />
-</a>
-<a href="https://www.argsinfotech.com/">
-  <img align="left" alt="PyBaker Facebook" width="21px" src="https://github.com/PyBaker/PyBaker/blob/main/images/connect_with_me_images/www.svg"  />
-</a>
--->
-.
