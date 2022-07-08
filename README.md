@@ -59,10 +59,12 @@ Other      0 secs          ▒░░░░░░░░░░░░░░░░�
 </a>
 </p>
 <p align="center" >
-<a href="#">
+<!--
+ <a href="https://github.com/PyBaker/alx-higher_level_programming">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PyBaker&repo=alx-higher_level_programming&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
  </p>
+-->
 
 
 ### Connect with me :smiley:
