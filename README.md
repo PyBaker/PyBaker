@@ -1,13 +1,17 @@
 <p align="center">
- <a>!
+ <a href="#">
  <img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/goma-cat.gif">
 </a>
 </p>
 <p align="center">
+  <a href="#">
  <img src="https://visitor-badge.laobi.icu/badge?page_id=PyBaker.PyBaker&theme=dracula">
+ </a>
 </p>
 <p align="center">
+  <a href="#">
  <img src="https://img.shields.io/github/followers/PyBaker?label=Follow&style=social&theme=dracula">
+  </a>
 </p>
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=25&duration=4000&color=C6A2F7&center=true&vCenter=true&multiline=true&height=70&lines=Hie+My+name+is+Shaun;Aka+Py+Baker+the+first">
