@@ -53,14 +53,14 @@ Other      0 secs          ▒░░░░░░░░░░░░░░░░�
 | <a href="#"><img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/github.gif" height="80px"> | <a href="#"><img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/linux-computer.gif" height="80px"> </a> | <a href="#"><img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/vim-linux.gif" height="80px">  </a>| <a href="#"><img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/vscode.gif" height="80px"> </a> |
 | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |:--------------------------------------------------------------------------------------------: |:--------------------------------------------------------------------------------------------: |
 
-<p>
+<p align="center" >
  <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PyBaker&theme=dracula">
+  <img  src="https://github-readme-stats.vercel.app/api?username=PyBaker&theme=dracula">
 </a>
 </p>
-<p>
+<p align="center" >
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PyBaker&repo=alx-higher_level_programming&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PyBaker&repo=alx-higher_level_programming&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
  </p>
 
