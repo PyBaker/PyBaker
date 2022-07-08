@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any project
 - 🤔 I’m looking for help with ... My upcoming Python projects 
 - 💬 Ask me about Linux, Python, Human Communication and Html/Css for now :) 
-- 📫 You can shoot me an email I'll try to respond as soon as I can.
+- 📫 You can shoot me an email drshaun@gmail.com I'll try to respond as soon as I can.
 - ⚡ Fun fact: I'm the next big thing, but for now i'm happy to learn from you as we work together  :)
 
 ### Programming Languages :rocket:
