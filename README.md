@@ -18,6 +18,13 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=25&duration=4000&color=C6A2F7&center=true&vCenter=true&multiline=true&height=70&lines=Hie+I'm+Shaun;Aka+PyBaker">
   </a>
 </p>
+<div align="center">
+ <a href="#"><img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/python.gif" height="80px"></a>
+ <a href="#"><img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/html.gif" height="80px"> </a>
+ <a href="#"><img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/bootstrap.gif" height="80px"></a>
+ <a href="#"><img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/javascript.gif" height="80px"></a>
+ <a href="#"><img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/node.gif" height="80px"></a> 
+</div
 
 <p>
  <strong>
