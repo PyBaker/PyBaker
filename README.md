@@ -35,11 +35,7 @@ Daily Coding Stats
 <!--START_SECTION:waka-->
 
 ```text
-HTML         1 hr 14 mins    ███████████████▒░░░░░░░░░   61.48 %
-CSS          42 mins         ████████▓░░░░░░░░░░░░░░░░   35.10 %
-SCSS         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
