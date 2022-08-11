@@ -36,7 +36,6 @@ Daily Coding Stats
 
 ```text
 Markdown   3 mins          █████████████████████████   100.00 %
-CSV        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
