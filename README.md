@@ -35,7 +35,7 @@ Daily Coding Stats
 <!--START_SECTION:waka-->
 
 ```text
-HTML   6 mins          █████████████████████████   100.00 %
+HTML   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
