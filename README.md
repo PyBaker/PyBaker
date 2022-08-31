@@ -1,7 +1,7 @@
 <p align="center">
  <a href="#">
  <img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/goma-cat.gif">
- <img src="https://github.com/pybaker/pybaker/blob/output/github-contribution-grid-snake.gif">
+ <img src="https://github.com/PyBaker/PyBaker/blob/output/github-contribution-grid-snake.gif">
 </a>
 </p>
 <p align="center">
