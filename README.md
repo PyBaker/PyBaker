@@ -3,7 +3,7 @@
  <img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/goma-cat.gif">
 </a>
  <a href='#'>
-  <img src="https://github.com/PyBaker/PyBaker/blob/output/github-contribution-grid-snake.gif">
+  <img src="https://github.com/PyBaker/PyBaker/blob/output/github-contribution-grid-snake-dark.svg">
  </a>
 </p>
 <p align="center">
