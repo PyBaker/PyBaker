@@ -54,7 +54,7 @@ TypeScript   8 mins          ▓░░░░░░░░░░░░░░░░
 - 🤔 I’m looking for help with ... My upcoming Python projects 
 - 💬 Ask me about Linux, Python, JavaScript, Human Interaction/Communication and Html/Css for now :) 
 - 📫 You can shoot me an email drshaun@gmail.com I'll try to respond as soon as I can.
-- ⚡ Fun fact: I'm the next big thing, but for now i'm happy to learn from you as we work together  :)
+<!-- - ⚡ Fun fact: I'm the next big thing, but for now i'm happy to learn from you as we work together  :) -->
 
 ### Programming Languages :rocket:
 
