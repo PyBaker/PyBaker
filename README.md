@@ -32,7 +32,7 @@
 
 <p>
  <strong>
-Daily Coding Stats
+Coding Stats
  </strong>
 </p>
 <!--START_SECTION:waka-->
