@@ -1,6 +1,6 @@
 <p align="center">
  <a href="#">
- <img width="30%" src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/goma-cat.gif">
+ <img width="20%" src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/goma-cat.gif">
 </a>
  <a href='#'>
   <img src="https://github.com/PyBaker/PyBaker/blob/output/github-contribution-grid-snake-dark.svg">
