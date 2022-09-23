@@ -1,3 +1,18 @@
+<p align="left">
+  <a href="#">
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=PyBaker.PyBaker&theme=dracula">
+ </a>
+</p>
+<p align="left">
+<a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FPyBaker">
+ <img src="https://img.shields.io/github/followers/PyBaker?label=Follow&style=social&theme=dracula">
+  </a>
+</p>
+<p align="right">
+<a href="#">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=25&duration=4000&color=C6A2F7&center=true&vCenter=true&multiline=true&height=70&lines=Hie+I'm+Shaun;Aka+PyBaker">
+  </a>
+</p>
 <p align="center">
  <a href="#">
  <img width="20%" src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/goma-cat.gif">
@@ -5,21 +20,6 @@
  <a href='#'>
   <img src="https://github.com/PyBaker/PyBaker/blob/output/github-contribution-grid-snake-dark.svg">
  </a>
-</p>
-<p align="center">
-  <a href="#">
- <img src="https://visitor-badge.laobi.icu/badge?page_id=PyBaker.PyBaker&theme=dracula">
- </a>
-</p>
-<p align="center">
-<a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FPyBaker">
- <img src="https://img.shields.io/github/followers/PyBaker?label=Follow&style=social&theme=dracula">
-  </a>
-</p>
-<p align="center">
-<a href="#">
- <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=25&duration=4000&color=C6A2F7&center=true&vCenter=true&multiline=true&height=70&lines=Hie+I'm+Shaun;Aka+PyBaker">
-  </a>
 </p>
 <!-- <div align="center">
  <a href="#"><img src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/python.gif" height="80px"></a>
