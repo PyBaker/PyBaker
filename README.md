@@ -1,26 +1,12 @@
 <div>
 <span>
-<img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=25&duration=4000&color=C6A2F7&center=true&vCenter=true&multiline=true&height=70&lines=Hie+I'm+Shaun;Aka+PyBaker">
- </span>
-<span >
- <img width="20%" src="https://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/goma-cat.gif">
-</span>
- <span>
- <img src="https://visitor-badge.laobi.icu/badge?page_id=PyBaker.PyBaker&theme=dracula">
- <img src="https://img.shields.io/github/followers/PyBaker?label=Follow&style=social&theme=dracula">
-
- </span>
-</div>
-
-<div>
-<span>
 <a href="#">
- <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=25&duration=4000&color=C6A2F7&center=true&vCenter=true&multiline=true&height=70&lines=Hie+I'm+Shaun;Aka+PyBaker">
+ <img src="https://readme-typing-svg.herokuapp.com?font=bungee&size=25&duration=4000&color=c6a2f7&center=true&vcenter=true&multiline=true&height=70&lines=hie+i'm+shaun;aka+pybaker">
 </a>
 </span>
 <spanj >
  <a href="#">
- <img width="20%" src="httpks://github.com/PyBaker/PyBaker/blob/main/images/icon_gifs/goma-cat.gif">
+ <img width="20%" src="https://github.com/pybaker/pybaker/blob/main/images/icon_gifs/goma-cat.gif">
 </a>
 </span>
 
