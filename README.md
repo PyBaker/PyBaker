@@ -1,9 +1,8 @@
-<div>
-<span>
+<p>
 <a href="#">
- <img src="https://readme-typing-svg.herokuapp.com?font=bungee&size=25&duration=4000&color=c6a2f7&center=true&vcenter=true&multiline=true&height=70&lines=hie+i'm+shaun;aka+pybaker">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=25&duration=4000&color=c6a2f7&center=true&vcenter=true&multiline=true&height=70&lines=hie+i'm+shaun;aka+pybaker">
 </a>
-</span>
+</p>
 <spanj >
  <a href="#">
  <img width="20%" src="https://github.com/pybaker/pybaker/blob/main/images/icon_gifs/goma-cat.gif">
