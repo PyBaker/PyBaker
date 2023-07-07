@@ -33,7 +33,7 @@
 
 <p>
  <strong>
-Coding Stats
+Weekly Coding Stats
  </strong>
 </p>
 <!--START_SECTION:waka-->
@@ -54,7 +54,7 @@ Other        11 mins         ▒░░░░░░░░░░░░░░░░
 - 👯 I’m looking to collaborate on any project
 - 🤔 I’m looking for help with ... My upcoming Python projects
 - 💬 Ask me about Linux, Python, JavaScript, Human Interaction/Communication and Html/Css for now :)
-- 📫 You can shoot me an email drshaunmak@gmail.com I'll try to respond as soon as I can.
+- 📫 You can shoot me an email drshaunmak@gmail.com I'll respond as soon as I can.
 <!-- - ⚡ Fun fact: I'm the next big thing, but for now i'm happy to learn from you as we work together  :) -->
 
 ### Programming Languages :rocket
@@ -81,7 +81,7 @@ Other        11 mins         ▒░░░░░░░░░░░░░░░░
 -->
 -->
 
-### Connect with me :smiley
+### Connect with me 😁
 
 <a href="https://twitter.com/PyBaker">
   <img align="left" alt="PyBaker Twitter" width="21px" src="https://github.com/PyBaker/PyBaker/blob/main/images/connect_with_me_images/twitter.svg" />
