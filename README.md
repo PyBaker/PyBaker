@@ -49,7 +49,7 @@ Other        11 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-- 🔭 I’m currently studying Software Engineering with ALX in conjuction with Holberton School of Computer Science
+- 🔭 I’m a Software Engineering Graduate from Holberton School of Computer Science (partnering with ALX)
 - 🌱 I'm on track for learning more about Web Design and Development
 - 👯 I’m looking to collaborate on any project
 - 🤔 I’m looking for help with ... My upcoming Python projects
